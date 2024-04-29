@@ -1,2 +1,4 @@
-![sonda](https://github.com/diegote7/monorepositorio-programacion/assets/114953054/c2c624ad-9337-4ccc-9c1d-3fe42c0003d8)
+![sonda 2](https://github.com/diegote7/monorepositorio-programacion/assets/114953054/9cddb61c-2481-413a-ab67-180b63e94503)
+
+
 PROGRAMACION
